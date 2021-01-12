@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------
+# Colores
+--------------------------------------------------------------*/
+:root {
+
+    --principal: #267599;
+    --principal-oscuro: rgb(54, 77, 119);
+    --secundario: rgb(67, 69, 73);
+    --secundario-oscuro: rgb(53, 55, 58);
+  }
+
+/*--------------------------------------------------------------
+# Varios
+--------------------------------------------------------------*/
+
+.bloque-experiencia{
+    border-left: 2px solid var(--principal);
+    padding: 0 0 20px 20px
+}
+
+
+.titulo-experiencia{
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.item-experiencia {
+    font-weight: 400;
+}
