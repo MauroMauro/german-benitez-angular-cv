@@ -58,3 +58,8 @@ body, html {
     transition-delay: 0 !important;
   }
   }
+
+
+  .contenedor {
+    padding-top: 4rem;
+  }
