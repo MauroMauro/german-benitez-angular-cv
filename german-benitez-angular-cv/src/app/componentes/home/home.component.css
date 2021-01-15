@@ -12,3 +12,20 @@
 /*---------------------------------------------------------
 # General
 ----------------------------------------------------------*/
+.contenedor-titulos {
+  padding: 10%;
+  padding-top: 20%;
+}
+.contenedor-titulos h4{
+  font-size: 3rem;
+}
+
+.contenedor-links {
+  padding: 10%;
+  padding-top: 30%;
+}
+
+i {
+  color: var(--principal);
+}
+

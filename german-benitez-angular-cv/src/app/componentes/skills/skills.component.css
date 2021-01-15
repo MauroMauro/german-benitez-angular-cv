@@ -1,0 +1,32 @@
+/*--------------------------------------------------------------
+# Colores
+--------------------------------------------------------------*/
+:root {
+
+    --principal: #267599;
+    --principal-oscuro: rgb(54, 77, 119);
+    --secundario: rgb(67, 69, 73);
+    --secundario-oscuro: rgb(53, 55, 58);
+  }
+
+/*---------------------------------------------------------
+# General
+----------------------------------------------------------*/
+
+.subtitulo {
+  color:var(--principal-oscuro);
+  padding-top: 3rem;
+}
+
+.descripcion {
+  padding: 10%;
+  color: var(--principal-oscuro);
+}
+
+.progress {
+  height: 10px;
+}
+
+span {
+  font-size: 0.75rem;
+}
