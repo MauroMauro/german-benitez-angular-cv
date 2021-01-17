@@ -36,6 +36,7 @@
   
    .caja-imagenes{
     position: relative;
+    box-shadow: 1px 1px 15px #918f8f;
   }
   
    .overlay{
