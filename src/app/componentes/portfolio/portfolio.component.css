@@ -151,9 +151,15 @@
     }
   
      .modal-body h3 {
-      font-size: 1.3rem;
+      font-size:1rem;
+    }
+
+    .texto-imagenes h3 {
+      display:none;
     }
   
   
     }
   
+
+
